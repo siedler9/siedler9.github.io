@@ -1094,13 +1094,153 @@
             <g id="turkey_2"/>
         </g>
         <g id="Layer1">
-            <g id="austria_1"/>
-            <g id="england_1"/>
-            <g id="france_1"/>
-            <g id="germany_1"/>
+            <g id="austria_1">
+                <g>
+                    <line x1="837" x2="813.7" y1="1006" y2="1043.8"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="837" x2="813.7" y1="1006" y2="1043.8"
+                          class="varwidthorder" stroke="red" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+                <g>
+                    <line x1="962" x2="1092.7" y1="914" y2="970.4"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="962" x2="1092.7" y1="914" y2="970.4"
+                          class="varwidthorder" stroke="red" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                    <use x="1027.4" y="942.2" width="30"
+                         xmlns:xlink="http://www.w3.org/1999/xlink"
+                         href="#FailedOrder" xlink:type="simple"
+                         xlink:actuate="onLoad" height="30" xlink:show="embed"/>
+                </g>
+            </g>
+            <g id="england_1">
+                <g>
+                    <line x1="462" x2="491.9" y1="586" y2="614.5"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="462" x2="491.9" y1="586" y2="614.5"
+                          class="varwidthorder" stroke="blue" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+                <g>
+                    <line x1="485" x2="598.3" y1="524" y2="265.2"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="485" x2="598.3" y1="524" y2="265.2"
+                          class="varwidthorder" stroke="blue" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+                <g>
+                    <line x1="500" x2="556.8" y1="685" y2="584.5"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="500" x2="556.8" y1="685" y2="584.5"
+                          class="varwidthorder" stroke="blue" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+            </g>
+            <g id="france_1">
+                <g>
+                    <line x1="500" x2="555.4" y1="855" y2="875.3"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="500" x2="555.4" y1="855" y2="875.3"
+                          class="varwidthorder" stroke="deepskyblue"
+                          stroke-width="6" marker-end="url(#arrow)"/>
+                </g>
+                <g>
+                    <line x1="536" x2="625.4" y1="985" y2="979.1"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="536" x2="625.4" y1="985" y2="979.1"
+                          class="varwidthorder" stroke="deepskyblue"
+                          stroke-width="6" marker-end="url(#arrow)"/>
+                </g>
+                <g>
+                    <line x1="416" x2="519.1" y1="829" y2="796.1"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="416" x2="519.1" y1="829" y2="796.1"
+                          class="varwidthorder" stroke="deepskyblue"
+                          stroke-width="6" marker-end="url(#arrow)"/>
+                </g>
+            </g>
+            <g id="germany_1">
+                <g>
+                    <line x1="705" x2="660.6" y1="838" y2="799.8"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="705" x2="660.6" y1="838" y2="799.8"
+                          class="varwidthorder" stroke="gray" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+                <g>
+                    <line x1="695" x2="712.1" y1="711" y2="613.4"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="695" x2="712.1" y1="711" y2="613.4"
+                          class="varwidthorder" stroke="gray" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+                <g>
+                    <polygon stroke-width="10" class="varwidthshadow"
+                             points="796.8,666.7 816.3,686.2 816.3,713.8 796.8,733.3 769.2,733.3 749.7,713.8 749.7,686.2 769.2,666.7 "/>
+                    <polygon stroke-width="6" class="varwidthorder"
+                             points="796.8,666.7 816.3,686.2 816.3,713.8 796.8,733.3 769.2,733.3 749.7,713.8 749.7,686.2 769.2,666.7 "
+                             stroke="gray"/>
+                </g>
+            </g>
             <g id="italy_1"/>
-            <g id="russia_1"/>
-            <g id="turkey_1"/>
+            <g id="russia_1">
+                <g>
+                    <line x1="995" x2="1008.1" y1="750" y2="824.6"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="995" x2="1008.1" y1="750" y2="824.6"
+                          class="varwidthorder" stroke="white" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+                <g>
+                    <line x1="1212" x2="1022.4" y1="600" y2="731.1"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="1212" x2="1022.4" y1="600" y2="731.1"
+                          class="varwidthorder" stroke="white" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+                <g>
+                    <line x1="1296" x2="1122" y1="855" y2="967.9"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="1296" x2="1122" y1="855" y2="967.9"
+                          class="varwidthorder" stroke="white" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                    <use x="1209" y="911.5" width="30"
+                         xmlns:xlink="http://www.w3.org/1999/xlink"
+                         href="#FailedOrder" xlink:type="simple"
+                         xlink:actuate="onLoad" height="30" xlink:show="embed"/>
+                </g>
+                <g>
+                    <line x1="1066" x2="969.6" y1="487" y2="493.8"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="1066" x2="969.6" y1="487" y2="493.8"
+                          class="varwidthorder" stroke="white" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+            </g>
+            <g id="turkey_1">
+                <g>
+                    <line x1="1157" x2="1073.6" y1="1147" y2="1087.6"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="1157" x2="1073.6" y1="1147" y2="1087.6"
+                          class="varwidthorder" stroke="yellow" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+                <g>
+                    <line x1="1265" x2="1184.6" y1="1220" y2="1165.6"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="1265" x2="1184.6" y1="1220" y2="1165.6"
+                          class="varwidthorder" stroke="yellow" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+                <g>
+                    <line x1="1313" x2="1253.8" y1="1120" y2="1024.2"
+                          class="varwidthshadow" stroke-width="10"/>
+                    <line x1="1313" x2="1253.8" y1="1120" y2="1024.2"
+                          class="varwidthorder" stroke="yellow" stroke-width="6"
+                          marker-end="url(#arrow)"/>
+                </g>
+            </g>
         </g>
     </g>
 
@@ -1142,57 +1282,57 @@
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
              xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
-        <use x="805" y="1058" width="40"
+        <use x="1313" y="1120" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="416" y="829" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="485" y="524" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="695" y="711" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="500" y="685" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="462" y="586" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="536" y="985" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="1212" y="600" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="705" y="838" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="500" y="855" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="1265" y="1220" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="1066" y="487" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="837" y="1006" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
              xlink:type="simple" class="unitaustria" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="1245" y="1010" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="1060" y="1078" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="571" y="881" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="715" y="597" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="1011" y="841" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="953" y="495" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="565" y="570" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="605" y="250" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="535" y="791" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="642" y="978" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="648" y="789" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="504" y="626" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
     </g>
 
