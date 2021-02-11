@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <script src="https://www.w3schools.com/lib/w3.js"></script>
 <style>
-.mySlides, .results, .status {display:none;}
+.rounds, .results, .status {display:none; height:726px;}
 </style>
 
     <!--[if IE]>
@@ -33,43 +33,51 @@
 
 
 <div class="w3-content w3-display-container">
-  <div class="mySlides">
-    <h2 class="w3-center">Spring 1870 disposition</h2>
+  <div class="rounds">
+    <h2 class="w3-center">Spring 1870 starting position</h2>
     <img class="maps" src="static/Standard (6 Players)-S1870M.png" style="width:100%">
-	<p class="results">No results - this is the initial position.</p>
-	<iframe class="status" src="static/S1870Dsta.html" width="100%" height="2000" style="border:none;"></iframe>
+    <h3 class="results">No results - this is the initial position.</h3>
+    <iframe class="status" src="static/S1870Dsta.html" width="100%" style="border:none;"></iframe>
   </div>
-  <div class="mySlides">
+  <div class="rounds">
     <h2 class="w3-center">Spring 1870 movement orders</h2>
     <img class="maps" src="static/Standard (6 Players)-S1870Ma.png" style="width:100%">
-	<iframe class="results" src="static/S1870Mres.html" width="100%" height="2000" style="border:none;"></iframe>
-	<iframe class="status" src="static/S1870Msta.html" width="100%" height="2000" style="border:none;"></iframe>
+    <iframe class="results" src="static/S1870Mres.html" width="100%" style="border:none;"></iframe>
+    <iframe class="status" src="static/S1870Msta.html" width="100%" style="border:none;"></iframe>
   </div>
-  <div class="mySlides">
-    <h2 class="w3-center">Fall 1870 disposition</h2>
+  <div class="rounds">
+    <h2 class="w3-center">Fall 1870 starting position</h2>
     <img class="maps" src="static/Standard (6 Players)-F1870M.png" style="width:100%">
-	<iframe class="results" src="static/F1870Mres.html" width="100%" height="2000" style="border:none;"></iframe>
-	<iframe class="status" src="static/F1870Msta.html" width="100%" height="2000" style="border:none;"></iframe>
+    <h3 class="results">No results - this is the initial position.</h3>
+    <iframe class="status" src="static/F1870Msta.html" width="100%" style="border:none;"></iframe>
   </div>
-  <div class="mySlides">
+  <div class="rounds">
     <h2 class="w3-center">Fall 1870 movement orders</h2>
     <img class="maps" src="static/Standard (6 Players)-F1870Ma.png" style="width:100%">
-	<iframe class="results" src="static/F1870Mres.html" width="100%" height="2000" style="border:none;"></iframe>
-	<iframe class="status" src="static/F1870Msta.html" width="100%" height="2000" style="border:none;"></iframe>
+    <iframe class="results" src="static/F1870Mres.html" width="100%" style="border:none;"></iframe>
+    <iframe class="status" src="static/F1870Msta.html" width="100%" style="border:none;"></iframe>
   </div>
-  <div class="mySlides">
+  <div class="rounds">
     <h2 class="w3-center">Fall 1870 adjustments</h2>
-    <img class="maps" src="static/Standard (6 Players)-F1870B.png" style="width:100%">
-	<p class="results">No results - deadline for issuing build orders is Thursday 11th February at 1200 GMT.</p>
-	<iframe class="status" src="static/F1870Asta.html" width="100%" height="2000" style="border:none;"></iframe>
+    <img class="maps" src="static/Standard (6 Players)-F1870Ba.png" style="width:100%">
+    <iframe class="results" src="static/F1870Ares.html" width="100%" style="border:none;"></iframe>
+    <iframe class="status" src="static/F1870Asta.html" width="100%" style="border:none;"></iframe>
+  </div>
+  <div class="rounds">
+    <h2 class="w3-center">Spring 1871 starting position</h2>
+    <img class="maps" src="static/Standard (6 Players)-S1871M.png" style="width:100%">
+    <h3 class="results">No results - deadline for issuing movement orders is Sunday 14th February at 1200 GMT.</h3>
+    <iframe class="status" src="static/S1871Dsta.html" width="100%" style="border:none;"></iframe>
   </div>
 
-  <button class="w3-button w3-black w3-display-topleft" onclick="plusDivs(-1)">&#10094;</button>
-  <button class="w3-button w3-black w3-display-topright" onclick="plusDivs(1)">&#10095;</button>
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
 </div>
 </div>
 <script>
-var slideIndex = 0;
+var slideIndex;
+var nbRounds = document.getElementsByClassName("rounds").length;
+slideIndex = nbRounds;
 showDivs(slideIndex);
 
 function plusDivs(n) {
@@ -77,60 +85,38 @@ function plusDivs(n) {
 }
 
 function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
+  var x;
+  var buttons;
+  x = changeDisplay("rounds", "none");
+//  buttons = changeDisplay("buttons", "block");
+  if (n > nbRounds) {slideIndex -= 1}
+  if (n < 1) {slideIndex += 1}
   x[slideIndex-1].style.display = "block";  
 }
 
-function maps() {
+function changeDisplay(cl, value) {
   var i;
-  var x = document.getElementsByClassName("maps");
+  var x = document.getElementsByClassName(cl);
   for (i = 0; i < x.length; i++) {
-    x[i].style.display = "block";  
+    x[i].style.display = value; 
   }
-  var x = document.getElementsByClassName("results");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  var x = document.getElementsByClassName("status");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
+  return x;
+}
+
+function maps() {
+  changeDisplay("maps", "block");
+  changeDisplay("results", "none");
+  changeDisplay("status", "none");
 }
 function results() {
-  var i;
-  var x = document.getElementsByClassName("maps");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  var x = document.getElementsByClassName("results");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "block";  
-  }
-  var x = document.getElementsByClassName("status");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
+  changeDisplay("maps", "none");
+  changeDisplay("results", "block");
+  changeDisplay("status", "none");
 }
 function status() {
-  var i;
-  var x = document.getElementsByClassName("maps");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  var x = document.getElementsByClassName("results");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  var x = document.getElementsByClassName("status");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "block";  
-  }
+  changeDisplay("maps", "none");
+  changeDisplay("results", "none");
+  changeDisplay("status", "block");
 }
   
 </script>
