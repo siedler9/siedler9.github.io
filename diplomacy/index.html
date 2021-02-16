@@ -7,7 +7,7 @@
     <meta name="dcterms.created" content="Tue, 09 Feb 2021 12:44:57 GMT">
     <meta name="description" content="">
     <meta name="keywords" content="">
-    <title></title>
+    <title>Maps Results Status</title>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <script src="https://www.w3schools.com/lib/w3.js"></script>
 <style>
@@ -35,75 +35,82 @@
 
 <div class="w3-content w3-display-container">
   <div class="rounds">
-    <h2 class="w3-center">Spring 1870 starting position</h2>
     <img class="maps" src="static/Standard (6 Players)-S1870M.png" style="width:100%">
-    <h3 class="results">No results - this is the initial position.</h3>
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Spring 1870 starting position</div>
+    <div class="results"><h3 class="w3-display-middle">No results - this is the Spring 1870 position.</h3></div>
     <iframe class="status" src="static/S1870Dsta.html" width="100%" style="border:none;"></iframe>
   </div>
   <div class="rounds">
-    <h2 class="w3-center">Spring 1870 movement orders</h2>
     <img class="maps" src="static/Standard (6 Players)-S1870Ma.png" style="width:100%">
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Spring 1870 movement orders</div>
     <iframe class="results" src="static/S1870Mres.html" width="100%" style="border:none;"></iframe>
     <iframe class="status" src="static/S1870Msta.html" width="100%" style="border:none;"></iframe>
   </div>
   <div class="rounds">
-    <h2 class="w3-center">Fall 1870 starting position</h2>
     <img class="maps" src="static/Standard (6 Players)-F1870M.png" style="width:100%">
-    <h3 class="results">No results - this is the initial position.</h3>
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Fall 1870 starting position</div>
+    <div class="results"><h3 class="w3-display-middle">No results - this is the Fall 1870 position.</h3></div>
     <iframe class="status" src="static/F1870Dsta.html" width="100%" style="border:none;"></iframe>
   </div>
   <div class="rounds">
-    <h2 class="w3-center">Fall 1870 movement orders</h2>
     <img class="maps" src="static/Standard (6 Players)-F1870Ma.png" style="width:100%">
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Fall 1870 movement orders</div>
     <iframe class="results" src="static/F1870Mres.html" width="100%" style="border:none;"></iframe>
     <iframe class="status" src="static/F1870Msta.html" width="100%" style="border:none;"></iframe>
   </div>
   <div class="rounds">
-    <h2 class="w3-center">Fall 1870 adjustments</h2>
     <img class="maps" src="static/Standard (6 Players)-F1870Ba.png" style="width:100%">
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Fall 1870 adjustments</div>
     <iframe class="results" src="static/F1870Ares.html" width="100%" style="border:none;"></iframe>
     <iframe class="status" src="static/F1870Asta.html" width="100%" style="border:none;"></iframe>
   </div>
   <div class="rounds">
-    <h2 class="w3-center">Spring 1871 starting position</h2>
     <img class="maps" src="static/Standard (6 Players)-S1871M.png" style="width:100%">
-    <h3 class="results">No results - deadline for issuing movement orders is Sunday 14th February at 1200 GMT.</h3>
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Spring 1871 starting position</div>
+    <div class="results"><h3 class="w3-display-middle">No results - this is the Spring 1871 position.</h3></div>
     <iframe class="status" src="static/S1871Dsta.html" width="100%" style="border:none;"></iframe>
   </div>
   <div class="rounds">
-    <h2 class="w3-center">Spring 1871 movement orders</h2>
     <img class="maps" src="static/Standard (6 Players)-S1871Ma.png" style="width:100%">
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Spring 1871 movement orders</div>
     <iframe class="results" src="static/S1871Mres.html" width="100%" style="border:none;"></iframe>
     <iframe class="status" src="static/S1871Msta.html" width="100%" style="border:none;"></iframe>
   </div>
   <div class="rounds">
-    <h2 class="w3-center">Fall 1871 starting position</h2>
     <img class="maps" src="static/Standard (6 Players)-F1871M.png" style="width:100%">
-    <h3 class="results">No results - deadline for issuing movement orders is Wednesday 17th February at 1800 GMT.</h3>
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Fall 1871 starting position</div>
+    <div class="results"><h3 class="w3-display-middle">Deadline for issuing movement orders is Wednesday 17th February at 1800 GMT.</h3></div>
     <iframe class="status" src="static/F1871Dsta.html" width="100%" style="border:none;"></iframe>
   </div>
 
-  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+  <button class="earlier w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="later w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
 </div>
 </div>
 <script>
 var slideIndex;
 var nbRounds = document.getElementsByClassName("rounds").length;
 slideIndex = nbRounds;
-showDivs(slideIndex);
+plusDivs(0)
 
 function plusDivs(n) {
-  showDivs(slideIndex += n);
+  adjustButton("block");
+  slideIndex += n;
+  adjustButton("none");
+  showDivs(slideIndex);
 }
-
+function adjustButton(value) {
+  if (slideIndex == 1) {
+    changeDisplay("earlier", value);
+  }
+  if (slideIndex == nbRounds) {
+    changeDisplay("later", value);
+  }
+}
 function showDivs(n) {
   var x;
   var buttons;
   x = changeDisplay("rounds", "none");
-//  buttons = changeDisplay("buttons", "block");
-  if (n > nbRounds) {slideIndex -= 1}
-  if (n < 1) {slideIndex += 1}
   x[slideIndex-1].style.display = "block";  
 }
 
