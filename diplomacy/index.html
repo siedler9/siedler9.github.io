@@ -82,6 +82,25 @@
     <div class="results"><h3 class="w3-display-middle">Deadline for issuing movement orders is Wednesday 17th February at 1800 GMT.</h3></div>
     <iframe class="status" src="static/F1871Dsta.html" width="100%" style="border:none;"></iframe>
   </div>
+  <div class="rounds">
+    <img class="maps" src="static/Standard (6 Players)-F1871Ma.png" style="width:100%">
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Fall 1871 movement orders</div>
+    <iframe class="results" src="static/F1871Mres.html" width="100%" style="border:none;"></iframe>
+    <iframe class="status" src="static/F1871Msta.html" width="100%" style="border:none;"></iframe>
+  </div>
+  <div class="rounds">
+    <img class="maps" src="static/Standard (6 Players)-F1871R.png" style="width:100%">
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Fall 1871 retreats</div>
+    <div class="results"><h3 class="w3-display-middle">Dislodged units: Holland, Rumania. Retreat orders to be issued ASAP</h3></div>
+    <!--iframe class="results" src="static/F1871Rres.html" width="100%" style="border:none;"></iframe-->
+    <iframe class="status" src="static/F1871Rsta.html" width="100%" style="border:none;"></iframe>
+  </div>
+  <!--div class="rounds">
+    <img class="maps" src="static/Standard (6 Players)-F1871Ba.png" style="width:100%">
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Fall 1871 adjustments</div>
+    <iframe class="results" src="static/F1871Ares.html" width="100%" style="border:none;"></iframe>
+    <iframe class="status" src="static/F1871Asta.html" width="100%" style="border:none;"></iframe>
+  </div-->
 
   <button class="earlier w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
   <button class="later w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
@@ -94,10 +113,12 @@ slideIndex = nbRounds;
 plusDivs(0)
 
 function plusDivs(n) {
+  var x;
   adjustButton("block");
   slideIndex += n;
   adjustButton("none");
-  showDivs(slideIndex);
+  x = changeDisplay("rounds", "none");
+  x[slideIndex-1].style.display = "block";  
 }
 function adjustButton(value) {
   if (slideIndex == 1) {
@@ -106,12 +127,6 @@ function adjustButton(value) {
   if (slideIndex == nbRounds) {
     changeDisplay("later", value);
   }
-}
-function showDivs(n) {
-  var x;
-  var buttons;
-  x = changeDisplay("rounds", "none");
-  x[slideIndex-1].style.display = "block";  
 }
 
 function changeDisplay(cl, value) {

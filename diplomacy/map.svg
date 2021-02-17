@@ -747,10 +747,10 @@
               class="nopower"/>
         <path id="_mun"
               d="M 820 1020 C 820 1020 824 1031 824 1031 C 824 1031 821 1045 821 1045 C 821 1045 819 1058 819 1058 C 829 1058 833 1058 843 1057 C 847 1056 855 1054 859 1054 C 865 1055 868 1059 872 1060 C 875 1062 879 1060 883 1062 C 887 1064 889 1067 894 1068 C 894 1068 919 1066 919 1066 C 932 1066 937 1066 950 1069 C 950 1065 948 1059 950 1055 C 952 1049 956 1049 960 1047 C 967 1043 966 1040 975 1039 C 974 1033 971 1029 967 1024 C 967 1024 948 1001 948 1001 C 942 993 938 985 947 976 C 949 975 952 973 954 971 C 958 969 962 968 966 966 C 966 966 957 936 957 936 C 953 937 939 942 935 944 C 935 944 924 950 924 950 C 919 953 913 953 908 957 C 900 962 895 969 887 973 C 876 979 871 974 859 984 C 848 992 845 1004 837 1012 C 832 1017 826 1017 820 1020 z"
-              class="germany"/>
+              class="russia"/>
         <path id="_rum"
               d="M 1277 1053 C 1276 1059 1276 1068 1272 1073 C 1268 1079 1259 1080 1258 1086 C 1257 1092 1263 1097 1266 1101 C 1276 1111 1287 1119 1280 1134 C 1275 1143 1265 1147 1256 1150 C 1256 1150 1203 1163 1203 1163 C 1193 1167 1180 1178 1187 1190 C 1189 1192 1192 1193 1194 1195 C 1198 1197 1198 1200 1201 1201 C 1205 1203 1226 1205 1231 1205 C 1242 1205 1255 1206 1266 1204 C 1266 1204 1287 1197 1287 1197 C 1303 1194 1323 1194 1339 1199 C 1339 1193 1341 1177 1343 1172 C 1346 1167 1352 1163 1355 1158 C 1357 1154 1357 1150 1357 1145 C 1349 1146 1336 1151 1329 1148 C 1321 1143 1317 1130 1317 1122 C 1317 1122 1318 1110 1318 1110 C 1318 1096 1314 1093 1307 1082 C 1299 1069 1293 1057 1277 1053 z"
-              class="russia"/>
+              class="turkey"/>
         <path id="_bul"
               d="M 1188 1199 C 1187 1205 1185 1210 1187 1216 C 1189 1223 1196 1231 1196 1237 C 1197 1245 1189 1244 1190 1255 C 1193 1268 1204 1282 1189 1291 C 1195 1299 1199 1297 1208 1294 C 1208 1294 1224 1288 1224 1288 C 1236 1284 1244 1282 1249 1297 C 1250 1301 1250 1303 1250 1307 C 1250 1307 1250 1311 1250 1311 C 1250 1311 1269 1311 1269 1311 C 1272 1311 1276 1313 1279 1311 C 1281 1310 1282 1308 1283 1306 C 1292 1293 1281 1282 1293 1270 C 1306 1258 1316 1264 1328 1262 C 1328 1262 1320 1248 1320 1248 C 1319 1245 1321 1241 1322 1238 C 1325 1229 1323 1223 1326 1218 C 1331 1210 1335 1216 1338 1206 C 1324 1199 1299 1201 1284 1204 C 1276 1206 1273 1209 1263 1211 C 1263 1211 1242 1212 1242 1212 C 1242 1212 1229 1211 1229 1211 C 1222 1211 1207 1210 1201 1208 C 1193 1206 1195 1202 1188 1199 z"
               class="turkey"/>
@@ -765,7 +765,7 @@
               class="nopower"/>
         <path id="_ser"
               d="M 1189 1301 C 1187 1298 1181 1293 1183 1288 C 1185 1285 1189 1285 1190 1280 C 1191 1274 1184 1263 1184 1254 C 1184 1251 1184 1248 1185 1245 C 1187 1242 1190 1240 1190 1236 C 1189 1231 1184 1226 1181 1218 C 1178 1209 1181 1208 1181 1200 C 1181 1196 1181 1185 1177 1183 C 1176 1182 1173 1182 1171 1182 C 1171 1182 1144 1180 1144 1180 C 1137 1179 1135 1175 1131 1176 C 1128 1176 1125 1179 1121 1181 C 1115 1183 1111 1176 1107 1181 C 1106 1181 1104 1184 1104 1185 C 1100 1194 1107 1196 1107 1204 C 1106 1208 1104 1212 1103 1216 C 1101 1222 1101 1232 1104 1238 C 1110 1249 1126 1253 1134 1262 C 1140 1269 1140 1274 1141 1283 C 1141 1283 1142 1292 1142 1292 C 1142 1296 1141 1303 1144 1307 C 1146 1309 1151 1309 1154 1309 C 1165 1309 1174 1302 1189 1301 z"
-              class="nopower"/>
+              class="turkey"/>
         <path id="_bud"
               d="M 1121 1029 C 1121 1031 1121 1033 1120 1035 C 1118 1041 1113 1038 1109 1039 C 1106 1040 1104 1041 1102 1043 C 1092 1052 1092 1061 1085 1069 C 1079 1075 1074 1076 1069 1080 C 1065 1083 1060 1089 1056 1093 C 1052 1097 1047 1100 1047 1106 C 1047 1106 1048 1113 1048 1113 C 1050 1124 1054 1132 1063 1139 C 1069 1143 1075 1144 1079 1148 C 1088 1155 1088 1174 1103 1173 C 1103 1173 1111 1171 1111 1171 C 1113 1172 1115 1174 1117 1174 C 1123 1176 1125 1169 1132 1169 C 1136 1170 1139 1173 1144 1174 C 1151 1175 1155 1175 1162 1175 C 1162 1175 1169 1176 1169 1176 C 1181 1177 1183 1170 1191 1163 C 1196 1160 1200 1157 1206 1156 C 1206 1156 1258 1143 1258 1143 C 1268 1139 1276 1135 1275 1123 C 1274 1113 1259 1104 1253 1095 C 1253 1095 1249 1087 1249 1087 C 1249 1087 1234 1065 1234 1065 C 1230 1061 1227 1062 1221 1056 C 1213 1047 1208 1039 1197 1033 C 1187 1028 1182 1031 1173 1028 C 1166 1026 1162 1021 1154 1021 C 1144 1021 1131 1027 1121 1029 z"
               class="austria"/>
@@ -789,7 +789,7 @@
               class="nopower"/>
         <path id="_swe"
               d="M 1128 338 C 1128 338 1126 348 1126 348 C 1120 349 1118 350 1112 351 C 1109 351 1104 351 1101 352 C 1098 355 1101 358 1098 362 C 1095 366 1091 362 1087 367 C 1082 373 1075 395 1071 403 C 1068 409 1064 416 1059 422 C 1055 428 1052 430 1048 437 C 1048 437 1043 456 1043 456 C 1043 456 1032 478 1032 478 C 1032 478 1028 494 1028 494 C 1023 504 1015 499 1008 505 C 1006 508 1004 513 1003 517 C 999 529 999 540 999 552 C 999 552 1000 567 1000 567 C 1000 567 1000 581 1000 581 C 1000 586 1000 589 998 593 C 994 601 991 599 991 610 C 991 623 987 636 984 649 C 981 657 978 676 970 679 C 967 680 964 679 961 679 C 961 689 964 693 966 703 C 966 703 973 731 973 731 C 975 736 981 751 982 755 C 982 760 978 769 979 774 C 979 774 982 786 982 786 C 984 794 980 803 993 801 C 1005 800 1003 794 1009 786 C 1014 780 1019 778 1026 778 C 1030 778 1037 779 1041 777 C 1045 774 1048 768 1049 764 C 1055 750 1054 741 1055 727 C 1055 727 1060 704 1060 704 C 1060 702 1060 699 1059 697 C 1058 696 1056 694 1057 692 C 1057 690 1060 689 1062 689 C 1067 688 1072 687 1077 684 C 1086 680 1090 674 1094 665 C 1097 659 1099 657 1099 650 C 1098 635 1083 627 1078 620 C 1075 616 1074 610 1074 605 C 1074 592 1078 571 1083 559 C 1086 553 1095 542 1099 537 C 1112 523 1128 517 1139 498 C 1144 489 1138 486 1139 477 C 1140 464 1149 444 1162 439 C 1166 438 1170 438 1174 438 C 1174 438 1171 417 1171 417 C 1169 402 1165 380 1158 367 C 1151 355 1139 345 1128 338 z"
-              class="nopower"/>
+              class="russia"/>
         <path id="_nwy"
               d="M 1198 263 C 1194 266 1193 270 1192 274 C 1189 282 1188 287 1182 292 C 1180 283 1183 280 1183 272 C 1183 270 1183 267 1181 266 C 1178 265 1175 267 1173 268 C 1166 275 1167 275 1158 280 C 1158 280 1133 298 1133 298 C 1128 300 1123 302 1118 303 C 1115 304 1111 304 1108 305 C 1104 307 1104 312 1100 315 C 1097 317 1095 316 1093 317 C 1089 319 1087 324 1086 328 C 1088 330 1090 332 1089 335 C 1088 337 1083 342 1081 344 C 1081 344 1063 367 1063 367 C 1063 367 1045 394 1045 394 C 1045 394 1024 415 1024 415 C 1019 422 1015 431 1010 439 C 1005 447 995 464 992 472 C 992 472 991 483 991 483 C 983 480 980 483 974 488 C 971 491 967 496 965 499 C 964 502 964 506 961 508 C 958 510 952 509 947 512 C 941 515 937 521 933 522 C 929 523 928 521 925 521 C 921 520 918 522 916 526 C 916 526 920 528 920 528 C 915 534 912 532 905 535 C 906 537 908 541 907 542 C 905 545 900 541 894 542 C 888 544 882 551 879 556 C 871 567 869 577 867 590 C 866 593 865 601 865 604 C 867 609 872 610 874 614 C 876 619 871 620 867 621 C 867 621 871 624 871 624 C 879 633 863 634 861 637 C 860 638 860 642 860 644 C 864 643 878 639 879 646 C 879 650 874 653 872 655 C 865 660 859 665 864 674 C 866 677 869 681 872 683 C 874 685 877 686 880 688 C 899 697 913 679 929 672 C 934 669 939 668 944 664 C 946 663 950 658 953 658 C 957 658 960 668 961 672 C 964 672 968 674 970 671 C 972 668 974 659 975 656 C 978 646 984 626 984 616 C 984 612 984 606 985 602 C 987 597 991 595 993 589 C 994 584 994 578 994 573 C 994 573 992 546 992 546 C 992 536 995 516 1000 507 C 1002 502 1006 498 1011 496 C 1016 494 1020 495 1022 491 C 1022 491 1026 476 1026 476 C 1026 476 1037 453 1037 453 C 1037 453 1043 434 1043 434 C 1046 427 1053 421 1058 414 C 1067 400 1070 386 1077 372 C 1081 364 1084 358 1093 357 C 1092 343 1110 344 1120 344 C 1121 340 1122 336 1123 332 C 1124 326 1127 318 1134 316 C 1139 315 1144 319 1149 321 C 1156 324 1165 326 1172 326 C 1176 326 1181 326 1184 323 C 1191 317 1185 298 1199 291 C 1201 290 1203 290 1205 290 C 1217 289 1232 299 1234 312 C 1234 317 1231 324 1230 330 C 1241 325 1247 308 1251 297 C 1249 298 1243 300 1241 299 C 1237 299 1229 292 1227 288 C 1232 287 1244 285 1246 281 C 1251 273 1234 268 1229 268 C 1222 269 1223 277 1219 279 C 1216 280 1215 277 1214 275 C 1214 271 1218 257 1210 259 C 1203 260 1207 278 1201 280 C 1197 281 1197 275 1197 273 C 1197 273 1198 263 1198 263 z"
               class="england"/>
@@ -798,7 +798,7 @@
               class="germany"/>
         <path id="_hol"
               d="M 768 906 C 778 917 791 914 799 922 C 804 928 800 932 804 943 C 804 943 806 943 806 943 C 809 937 813 931 815 924 C 816 918 817 911 820 906 C 824 900 834 897 839 892 C 841 889 841 883 843 879 C 847 866 850 867 850 850 C 850 850 823 849 823 849 C 815 850 801 861 796 866 C 786 876 790 890 780 900 C 776 903 772 904 768 906 z"
-              class="nopower"/>
+              class="england"/>
         <path id="_bel"
               d="M 715 931 C 715 931 747 950 747 950 C 760 958 761 961 777 969 C 782 972 798 980 804 980 C 809 979 808 972 807 968 C 805 954 798 945 796 940 C 794 934 796 929 793 926 C 791 923 785 922 782 921 C 782 921 775 918 775 918 C 769 915 766 914 761 908 C 754 910 745 912 738 913 C 733 914 726 914 722 917 C 718 921 717 926 715 931 z"
               class="france"/>
@@ -807,7 +807,7 @@
               class="neutral"/>
         <path id="_ven"
               d="M 957 1271 C 959 1266 960 1265 964 1260 C 966 1258 969 1255 969 1252 C 969 1250 965 1243 964 1240 C 959 1228 962 1222 951 1210 C 941 1199 927 1193 928 1176 C 928 1168 932 1168 933 1164 C 934 1160 928 1155 935 1150 C 938 1148 949 1143 952 1142 C 955 1141 959 1141 961 1139 C 962 1137 964 1125 965 1122 C 965 1120 965 1118 963 1117 C 961 1115 950 1114 947 1114 C 942 1114 929 1115 926 1119 C 924 1121 924 1123 923 1126 C 918 1134 910 1143 900 1142 C 894 1141 892 1136 888 1136 C 886 1136 883 1139 881 1141 C 877 1146 873 1153 872 1160 C 872 1167 879 1174 884 1178 C 891 1184 897 1186 903 1190 C 912 1196 920 1205 926 1213 C 934 1224 937 1231 942 1244 C 942 1244 945 1260 945 1260 C 946 1264 953 1269 957 1271 z"
-              class="italy"/>
+              class="austria"/>
         <path id="_pie"
               d="M 804 1114 C 803 1117 801 1120 802 1124 C 803 1128 807 1130 806 1135 C 805 1138 801 1142 801 1146 C 800 1151 804 1156 805 1161 C 806 1168 800 1176 806 1184 C 807 1186 809 1188 811 1189 C 815 1191 823 1187 826 1184 C 832 1179 839 1173 848 1174 C 856 1175 860 1182 869 1186 C 871 1183 875 1178 874 1175 C 874 1171 869 1169 869 1161 C 869 1149 878 1138 887 1131 C 887 1131 886 1119 886 1119 C 886 1119 866 1116 866 1116 C 859 1117 860 1129 851 1127 C 844 1126 838 1116 830 1115 C 821 1114 814 1125 804 1114 z"
               class="nopower"/>
@@ -843,10 +843,10 @@
               class="france"/>
         <path id="_spa"
               d="M 386 1138 C 391 1137 398 1136 403 1138 C 407 1141 408 1144 414 1146 C 424 1149 439 1146 447 1159 C 449 1162 450 1166 450 1169 C 448 1177 442 1174 434 1184 C 434 1184 415 1216 415 1216 C 413 1219 410 1224 407 1226 C 405 1228 401 1230 400 1232 C 399 1235 399 1243 399 1246 C 399 1257 395 1257 393 1265 C 392 1272 396 1276 391 1284 C 388 1289 383 1291 379 1295 C 375 1300 372 1308 370 1314 C 379 1319 387 1329 389 1339 C 391 1347 388 1357 397 1362 C 404 1366 407 1361 413 1359 C 418 1358 420 1361 427 1361 C 427 1361 445 1357 445 1357 C 454 1357 462 1363 470 1365 C 478 1368 478 1367 485 1367 C 491 1366 497 1370 501 1369 C 507 1368 509 1360 520 1355 C 527 1352 541 1353 545 1350 C 545 1350 565 1326 565 1326 C 569 1323 575 1322 579 1321 C 577 1315 572 1310 572 1303 C 573 1298 577 1294 580 1290 C 584 1285 588 1276 592 1271 C 592 1271 599 1266 599 1266 C 604 1260 605 1257 613 1257 C 613 1255 613 1253 615 1251 C 618 1247 631 1245 636 1245 C 650 1243 675 1237 683 1225 C 685 1222 686 1220 686 1217 C 671 1217 656 1204 643 1196 C 640 1195 635 1192 632 1191 C 628 1191 626 1192 621 1190 C 613 1188 604 1183 597 1179 C 591 1175 583 1169 578 1164 C 578 1164 567 1151 567 1151 C 567 1151 558 1148 558 1148 C 553 1145 552 1143 548 1141 C 544 1139 540 1141 533 1138 C 533 1138 522 1132 522 1132 C 516 1130 514 1131 506 1127 C 506 1127 472 1110 472 1110 C 472 1110 448 1101 448 1101 C 439 1095 439 1088 427 1089 C 417 1089 419 1094 414 1096 C 409 1098 403 1095 400 1095 C 398 1095 396 1096 394 1098 C 385 1105 390 1114 390 1123 C 390 1129 388 1133 386 1138 z"
-              class="nopower"/>
+              class="france"/>
         <path id="_por"
               d="M 394 1143 C 391 1144 387 1144 385 1146 C 383 1148 381 1158 380 1161 C 378 1169 372 1180 369 1187 C 365 1194 356 1210 351 1215 C 346 1220 340 1218 336 1224 C 335 1227 332 1240 332 1243 C 332 1245 332 1248 333 1249 C 335 1253 343 1251 343 1259 C 343 1264 340 1269 338 1273 C 336 1280 339 1280 334 1288 C 332 1291 326 1298 327 1302 C 327 1304 337 1309 340 1310 C 344 1312 347 1314 352 1314 C 354 1314 362 1312 363 1311 C 365 1310 369 1298 371 1295 C 379 1282 387 1287 387 1273 C 387 1269 387 1265 388 1261 C 389 1256 392 1254 393 1248 C 394 1242 391 1236 394 1230 C 397 1223 401 1226 409 1215 C 409 1215 429 1180 429 1180 C 439 1168 446 1171 442 1163 C 437 1153 421 1156 412 1152 C 404 1149 404 1143 394 1143 z"
-              class="nopower"/>
+              class="france"/>
         <path id="_naf"
               d="M 216 1527 C 216 1527 780 1527 780 1527 C 780 1505 779 1473 783 1452 C 786 1442 790 1439 793 1431 C 784 1430 782 1426 770 1425 C 763 1424 763 1428 757 1427 C 752 1427 746 1422 739 1422 C 736 1422 721 1426 718 1427 C 715 1428 711 1430 708 1429 C 705 1429 701 1425 699 1423 C 695 1420 691 1417 686 1416 C 673 1412 646 1412 632 1412 C 632 1412 612 1410 612 1410 C 602 1410 593 1409 583 1411 C 575 1412 568 1415 561 1418 C 558 1420 552 1423 548 1423 C 544 1423 542 1420 539 1420 C 537 1419 526 1419 524 1420 C 520 1423 516 1427 510 1430 C 501 1434 486 1430 477 1427 C 474 1426 469 1424 466 1422 C 464 1419 463 1417 462 1414 C 457 1415 456 1416 451 1416 C 440 1416 423 1415 416 1406 C 411 1400 409 1391 406 1384 C 405 1381 403 1377 399 1378 C 392 1378 385 1387 381 1392 C 369 1405 360 1419 345 1428 C 332 1437 308 1433 292 1438 C 283 1441 272 1448 265 1454 C 265 1454 256 1465 256 1465 C 256 1465 242 1475 242 1475 C 232 1485 218 1513 216 1527 z"
               class="nopower"/>
@@ -986,7 +986,7 @@
              height="20" xlink:show="embed"/>
         <use x="630" y="692" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
-             xlink:type="simple" class="scnopower" xlink:actuate="onLoad"
+             xlink:type="simple" class="scengland" xlink:actuate="onLoad"
              height="20" xlink:show="embed"/>
         <use x="724" y="685" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
@@ -1010,7 +1010,7 @@
              height="20" xlink:show="embed"/>
         <use x="730" y="878" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
-             xlink:type="simple" class="scgermany" xlink:actuate="onLoad"
+             xlink:type="simple" class="scrussia" xlink:actuate="onLoad"
              height="20" xlink:show="embed"/>
         <use x="778" y="1143" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
@@ -1026,7 +1026,7 @@
              height="20" xlink:show="embed"/>
         <use x="151" y="1060" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
-             xlink:type="simple" class="scnopower" xlink:actuate="onLoad"
+             xlink:type="simple" class="scfrance" xlink:actuate="onLoad"
              height="20" xlink:show="embed"/>
         <use x="719" y="1087" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
@@ -1034,11 +1034,11 @@
              height="20" xlink:show="embed"/>
         <use x="1083" y="1014" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
-             xlink:type="simple" class="scrussia" xlink:actuate="onLoad"
+             xlink:type="simple" class="scturkey" xlink:actuate="onLoad"
              height="20" xlink:show="embed"/>
         <use x="936" y="1021" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
-             xlink:type="simple" class="scnopower" xlink:actuate="onLoad"
+             xlink:type="simple" class="scturkey" xlink:actuate="onLoad"
              height="20" xlink:show="embed"/>
         <use x="1267" y="973" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
@@ -1050,7 +1050,7 @@
              height="20" xlink:show="embed"/>
         <use x="302" y="1056" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
-             xlink:type="simple" class="scnopower" xlink:actuate="onLoad"
+             xlink:type="simple" class="scfrance" xlink:actuate="onLoad"
              height="20" xlink:show="embed"/>
         <use x="1113" y="469" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
@@ -1058,7 +1058,7 @@
              height="20" xlink:show="embed"/>
         <use x="890" y="489" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
-             xlink:type="simple" class="scnopower" xlink:actuate="onLoad"
+             xlink:type="simple" class="scrussia" xlink:actuate="onLoad"
              height="20" xlink:show="embed"/>
         <use x="794" y="975" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
@@ -1070,7 +1070,7 @@
              height="20" xlink:show="embed"/>
         <use x="733" y="971" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
-             xlink:type="simple" class="scitaly" xlink:actuate="onLoad"
+             xlink:type="simple" class="scaustria" xlink:actuate="onLoad"
              height="20" xlink:show="embed"/>
         <use x="835" y="887" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
@@ -1110,6 +1110,10 @@
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
              xlink:type="simple" class="unitaustria" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
+        <use x="890" y="620" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
         <use x="573" y="763" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
              xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
@@ -1118,29 +1122,25 @@
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
              xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
-        <use x="962" y="914" width="40"
+        <use x="818" y="824" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitaustria" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="1060" y="1078" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
+             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
         <use x="715" y="597" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
              xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
-        <use x="1011" y="841" width="40"
+        <use x="663" y="641" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="608" y="721" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
+             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
         <use x="695" y="711" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
              xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="536" y="985" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
         <use x="818" y="1180" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
@@ -1160,51 +1160,15 @@
              height="40" xlink:show="embed"/>
         <use x="1108" y="977" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="1296" y="855" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="754" y="914" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="719" y="1004" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unititaly" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="504" y="626" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="1055" y="1240" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
              xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="890" y="620" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="818" y="824" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="1230" y="1321" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="663" y="641" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="608" y="721" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
         <use x="945" y="1060" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
              xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="1296" y="855" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
         <use x="347" y="1049" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
@@ -1214,14 +1178,47 @@
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
              xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
-        <use x="837" y="1006" width="40"
+        <use x="754" y="914" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="719" y="1004" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitaustria" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="978" y="1200" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="858" y="1296" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="705" y="838" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="193" y="1023" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="867" y="874" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
              xlink:type="simple" class="unitaustria" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
     </g>
 
     <!-- drawing layer: dislodged units -->
-    <g id="DislodgedUnitLayer"/>
+    <g id="DislodgedUnitLayer">
+        <use x="595.5" y="708.5" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#DislodgedArmy"
+             xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="1095.5" y="964.5" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#DislodgedArmy"
+             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+    </g>
 
     <!-- above-the-unit drawing layer -->
     <g id="HighestOrderLayer">
