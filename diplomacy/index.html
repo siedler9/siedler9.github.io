@@ -22,9 +22,10 @@
 
 <div class="w3-sidebar w3-bar-block w3-gray" style="width:20%">
   <h3 class="w3-center w3-black">Menu</h3>
-  <button class="w3-bar-item w3-button" onclick="maps()">Maps</button>
-  <button class="w3-bar-item w3-button" onclick="results()">Results</button>
-  <button class="w3-bar-item w3-button" onclick="status()">Status</button>
+  <button class="w3-bar-item w3-button w3-blue-grey" onclick="maps()">Maps</button>
+  <button class="w3-bar-item w3-button w3-blue-grey" onclick="results()">Results</button>
+  <button class="w3-bar-item w3-button w3-blue-grey" onclick="status()">Status</button>
+  <hr />
   <a href="order-statistics.html" class="w3-bar-item w3-button">Order statistics</a>
   <a href="supply-centre-history.html" class="w3-bar-item w3-button">Supply centre history</a>
   <a href="europe-map.html" class="w3-bar-item w3-button">Europe map</a>
@@ -89,18 +90,23 @@
     <iframe class="status" src="static/F1871Msta.html" width="100%" style="border:none;"></iframe>
   </div>
   <div class="rounds">
-    <img class="maps" src="static/Standard (6 Players)-F1871R.png" style="width:100%">
+    <img class="maps" src="static/Standard (6 Players)-F1871Ra.png" style="width:100%">
     <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Fall 1871 retreats</div>
-    <div class="results"><h3 class="w3-display-middle">Dislodged units: Holland, Rumania. Retreat orders to be issued ASAP</h3></div>
-    <!--iframe class="results" src="static/F1871Rres.html" width="100%" style="border:none;"></iframe-->
+    <iframe class="results" src="static/F1871Rres.html" width="100%" style="border:none;"></iframe>
     <iframe class="status" src="static/F1871Rsta.html" width="100%" style="border:none;"></iframe>
   </div>
-  <!--div class="rounds">
+  <div class="rounds">
     <img class="maps" src="static/Standard (6 Players)-F1871Ba.png" style="width:100%">
     <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Fall 1871 adjustments</div>
     <iframe class="results" src="static/F1871Ares.html" width="100%" style="border:none;"></iframe>
     <iframe class="status" src="static/F1871Asta.html" width="100%" style="border:none;"></iframe>
-  </div-->
+  </div>
+  <div class="rounds">
+    <img class="maps" src="static/Standard (6 Players)-S1872M.png" style="width:100%">
+    <div class="maps w3-display-topleft w3-padding-small w3-large w3-container w3-black">Spring 1872 starting position</div>
+    <div class="results"><h3 class="w3-display-middle">Deadline for issuing movement orders is Sunday 21st February at 1200 GMT.</h3></div>
+    <iframe class="status" src="static/S1872Dsta.html" width="100%" style="border:none;"></iframe>
+  </div>
 
   <button class="earlier w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
   <button class="later w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
