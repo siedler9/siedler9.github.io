@@ -768,7 +768,7 @@
               class="turkey"/>
         <path id="_bud"
               d="M 1121 1029 C 1121 1031 1121 1033 1120 1035 C 1118 1041 1113 1038 1109 1039 C 1106 1040 1104 1041 1102 1043 C 1092 1052 1092 1061 1085 1069 C 1079 1075 1074 1076 1069 1080 C 1065 1083 1060 1089 1056 1093 C 1052 1097 1047 1100 1047 1106 C 1047 1106 1048 1113 1048 1113 C 1050 1124 1054 1132 1063 1139 C 1069 1143 1075 1144 1079 1148 C 1088 1155 1088 1174 1103 1173 C 1103 1173 1111 1171 1111 1171 C 1113 1172 1115 1174 1117 1174 C 1123 1176 1125 1169 1132 1169 C 1136 1170 1139 1173 1144 1174 C 1151 1175 1155 1175 1162 1175 C 1162 1175 1169 1176 1169 1176 C 1181 1177 1183 1170 1191 1163 C 1196 1160 1200 1157 1206 1156 C 1206 1156 1258 1143 1258 1143 C 1268 1139 1276 1135 1275 1123 C 1274 1113 1259 1104 1253 1095 C 1253 1095 1249 1087 1249 1087 C 1249 1087 1234 1065 1234 1065 C 1230 1061 1227 1062 1221 1056 C 1213 1047 1208 1039 1197 1033 C 1187 1028 1182 1031 1173 1028 C 1166 1026 1162 1021 1154 1021 C 1144 1021 1131 1027 1121 1029 z"
-              class="austria"/>
+              class="russia"/>
         <path id="_gal"
               d="M 1083 997 C 1083 997 1085 1015 1085 1015 C 1094 1015 1098 1015 1106 1018 C 1112 1021 1115 1025 1120 1025 C 1123 1025 1128 1023 1131 1022 C 1139 1020 1146 1018 1155 1018 C 1164 1018 1166 1023 1174 1025 C 1182 1027 1189 1024 1201 1031 C 1212 1038 1216 1046 1224 1054 C 1229 1059 1232 1058 1238 1065 C 1243 1071 1246 1078 1252 1083 C 1258 1073 1266 1074 1269 1066 C 1270 1062 1269 1047 1269 1042 C 1269 1030 1262 1010 1254 1001 C 1249 996 1240 993 1234 988 C 1229 985 1220 975 1216 974 C 1209 973 1205 980 1193 981 C 1186 981 1180 978 1174 975 C 1172 974 1166 971 1163 971 C 1160 971 1157 976 1155 978 C 1151 982 1145 985 1140 988 C 1134 990 1130 990 1124 989 C 1121 989 1113 987 1111 987 C 1108 988 1105 991 1100 994 C 1096 996 1088 997 1083 997 z"
               class="nopower"/>
@@ -962,7 +962,7 @@
              height="20" xlink:show="embed"/>
         <use x="900" y="916" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
-             xlink:type="simple" class="scaustria" xlink:actuate="onLoad"
+             xlink:type="simple" class="scrussia" xlink:actuate="onLoad"
              height="20" xlink:show="embed"/>
         <use x="1013" y="1078" width="20"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#SupplyCenter"
@@ -1122,13 +1122,9 @@
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
              xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
-        <use x="818" y="824" width="40"
+        <use x="962" y="914" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
              xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="715" y="597" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
         <use x="663" y="641" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
@@ -1136,23 +1132,35 @@
              height="40" xlink:show="embed"/>
         <use x="608" y="721" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
+             xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="858" y="1296" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
         <use x="695" y="711" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
+             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="500" y="685" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="536" y="985" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="1212" y="600" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="705" y="838" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
         <use x="818" y="1180" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
              xlink:type="simple" class="unititaly" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="565" y="570" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="715" y="420" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
         <use x="743" y="1112" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
@@ -1174,51 +1182,66 @@
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
              xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
-        <use x="841" y="469" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="754" y="914" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="719" y="1004" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitaustria" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="978" y="1200" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="858" y="1296" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
-             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="705" y="838" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
-        <use x="193" y="1023" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
-             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
-             height="40" xlink:show="embed"/>
         <use x="867" y="874" width="40"
              xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
              xlink:type="simple" class="unitaustria" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
-    </g>
-
-    <!-- drawing layer: dislodged units -->
-    <g id="DislodgedUnitLayer">
-        <use x="595.5" y="708.5" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#DislodgedArmy"
+        <use x="1055" y="1240" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="1496" y="1100" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="783" y="700" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
              xlink:type="simple" class="unitgermany" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
-        <use x="1095.5" y="964.5" width="40"
-             xmlns:xlink="http://www.w3.org/1999/xlink" href="#DislodgedArmy"
+        <use x="571" y="881" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="406" y="761" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="1011" y="841" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="953" y="495" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="556" y="1060" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="642" y="978" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitfrance" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="747" y="528" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitengland" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="837" y="1006" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
+             xlink:type="simple" class="unitaustria" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="720" y="1160" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Fleet"
+             xlink:type="simple" class="unitturkey" xlink:actuate="onLoad"
+             height="40" xlink:show="embed"/>
+        <use x="1136" y="810" width="40"
+             xmlns:xlink="http://www.w3.org/1999/xlink" href="#Army"
              xlink:type="simple" class="unitrussia" xlink:actuate="onLoad"
              height="40" xlink:show="embed"/>
     </g>
+
+    <!-- drawing layer: dislodged units -->
+    <g id="DislodgedUnitLayer"/>
 
     <!-- above-the-unit drawing layer -->
     <g id="HighestOrderLayer">
